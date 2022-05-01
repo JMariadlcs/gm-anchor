@@ -1,6 +1,8 @@
 # GM-ANCHOR
 Introduction to Anchor workshop from Chainlink Hackathon Spring 2022
 
+The workshop followed to complete this repo is [this one](https://www.youtube.com/watch?v=fPsH77ZoXt4&t=3016s).
+
 ## Commands
 - `anchor build`
 - `solana address -k ./target/deploy/gm_anchor-keypair.json`: copy result address on lib.rs -> declare_id!()
